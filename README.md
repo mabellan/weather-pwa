@@ -12,9 +12,7 @@ The app is developed using React JS.
 
 ## Try the App:
 
-The app is hosted in a free hosting: https://competent-wright-4be531.netlify.app/
-
-Although the app is online available, you can try it in local:
+You can try the app in local:
 
 1. Download or clone the project in your computer.
 2. Inside the project: `npm install`
