@@ -2,6 +2,7 @@
 
 ![alt text](./public/app.gif)
 
+
 This project is a Progressive Web App (PWA) that allows users to check the weather in different cities around the world using a text input. The purpose of this project is to learn and practice developing PWAs.
 
 The app is developed using React JS and makes use of the OpenWeatherMap API to fetch the weather data.
